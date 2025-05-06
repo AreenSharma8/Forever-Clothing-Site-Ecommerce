@@ -1,0 +1,4 @@
+POST http://localhost:4000/api/product/add
+Content-Type: multipart/form-data
+
+C:\Users\LENOVO\OneDrive\Desktop\A1\Frontend\src\assets
