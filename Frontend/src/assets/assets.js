@@ -1,3 +1,4 @@
+import logo1 from './logo1.png'
 import p_img1 from './p_img1.png'
 import p_img2_1 from './p_img2_1.png'
 import p_img2_2 from './p_img2_2.png'
@@ -75,6 +76,7 @@ import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
 
 export const assets = {
+    logo1,
     logo,
     hero_img,
     cart_icon,

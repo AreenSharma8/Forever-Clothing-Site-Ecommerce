@@ -63,7 +63,7 @@ const Cart = () => {
         <div className='w-full sm:w-[450px]'>
           <CartTotal />
           <div className='w-full text-end'>
-            <button onClick={() => navigate('/place-order')} className='bg-black text-white text-sm py-3 my-8 px-8 rounded-[10px]'>Proceed to CheckOut</button>
+            <button onClick={() => navigate('/place-order')} className='bg-black text-white text-sm py-3 my-8 px-8 rounded-[10px] hover:bg-red-800 transition-colors duration-200'>Proceed to CheckOut</button>
           </div>
         </div>
       </div>
